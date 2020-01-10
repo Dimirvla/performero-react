@@ -7,8 +7,6 @@ import { ShowMore } from './components/ShowMore/ShowMore';
 import movies from './assets/movies.json';
 
 function App() {
-	console.log(movies);
-
 	return (
 		<>
 			<Header />
